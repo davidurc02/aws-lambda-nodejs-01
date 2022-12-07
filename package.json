@@ -20,7 +20,7 @@
   "homepage": "https://github.com/davidurc02/aws-lambda-nodejs-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.4",
-    "serverless": "^1.74.1"
+    "serverless": "^3.25.1"
   },
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
